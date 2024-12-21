@@ -9,11 +9,11 @@
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
     
-    <label for="aadhar"><b>Aadhar</b></label for="aadhar"><b>Aadharq</b></label>
+    <label for="aadhar"><b>Aadhar</b></label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="mother name"><b>mother name</b></label for="aadhar"><b>Aadharq</b></label>
+    <label for="mother name"><b>mother name</b></label for="aadhar"><b>Mother name</b></label>
     <input type="mother name" placeholder="Enter name" name="mother name" id="mother name" required>
     <br>
 
