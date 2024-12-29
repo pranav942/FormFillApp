@@ -17,8 +17,8 @@
     <input type="Mother name" placeholder="Enter name" name="Mother name" id="Mother name" required>
     <br>
 
-    <label for="father name"><b>father name</b></label>
-    <input type="Father name" placeholder="Enter name" name="Father name" id="Father name" required>
+    <label for="Son name"><b>father name</b></label>
+    <input type="Son name" placeholder="Enter Son name" name="Son name" id="Son name" required>
     <br>
 
     <label for="email"><b>Email</b></label>
